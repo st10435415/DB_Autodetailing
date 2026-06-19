@@ -1431,7 +1431,6 @@ a.utility-item:hover {
         aspect-ratio: 4 / 3;
     }
 
-    /* Always show desc on mobile (no hover) */
     .service-card-desc {
         opacity: 1;
         transform: none;
