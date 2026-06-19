@@ -1580,6 +1580,28 @@ a.utility-item:hover {
     margin-top: 8px;
 }
 
+.founder-credentials {
+    margin-top: 32px;
+    padding-top: 32px;
+    border-top: 1px solid var(--border);
+}
+
+.founder-credentials-label {
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 16px;
+}
+
+.founder-credential-badge {
+    width: 200px;
+    height: auto;
+    display: block;
+    opacity: 0.9;
+}
+
 /* ============================================
    16. FINAL CTA
    ============================================ */
